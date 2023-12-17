@@ -1,0 +1,9 @@
+#extension
+*.user
+
+#path
+/node_modules
+/build
+
+#spesific files
+.env
