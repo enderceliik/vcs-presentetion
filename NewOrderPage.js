@@ -7,3 +7,6 @@ initial commit line 5
 vcs presentation edit for the github repository
 some codes...
 some commentlines...
+
+düzenlemeler
+düzenelefsdfsdf
